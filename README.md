@@ -4,7 +4,6 @@ A beautiful, interactive web-based tool for visualizing the entire SLR(1) parsin
 
 Perfect for students, educators, and anyone learning or teaching compiler design and parsing techniques.
 
-[Live Demo](https://your-deployed-url-here.com) *(replace with actual link once deployed)*
 
 ## Features
 
@@ -77,7 +76,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## License
 
-MIT License - feel free to use this for educational or personal projects.
+Apache
 
 ---
 
